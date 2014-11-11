@@ -9,9 +9,7 @@ A uShip API wrapper for Node.js. See the API documentation at https://developer.
 
 **Testing**
 
-Get an API key from your settings page: https://developer.uship.com/apps/mykeys
-
-You may need to contact [api-support@uship.com](mailto:api-support@uship.com). See: https://developer.uship.com/docs.
+Get an API key from your settings page: https://developer.uship.com/apps/mykeys. You may need to contact [api-support@uship.com](mailto:api-support@uship.com). See: https://developer.uship.com/docs.
 
 Copy config.json.sample to config.json and update the file with your account settings.
 
@@ -59,7 +57,7 @@ uship.estimate(data).then(function(result){
 
 /*
 
-Returns: 
+Outputs: 
 
 {
    "route":{
