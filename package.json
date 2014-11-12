@@ -1,7 +1,7 @@
 {
   "name": "uship",
   "preferGlobal": "false",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "John Wehr <johnwehr@gmail.com>",
   "description": "uShip API V2 Wrapper for Node.js",
   "contributors": [ 
@@ -18,8 +18,8 @@
   },
   "keywords": [],
   "dependencies" : {
-    "when": "3.2.0",
-    "underscore": "1.6.0",
+    "when": "3.4.3",
+    "underscore": "1.7.0",
     "oauth": "0.9.12",
     "request": "2.47.0",
     "string": "2.2.0"
